@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+}
+:root {
+  --main-color: #0369a1;
+  --second-color: #e0f2fe;
+}
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  list-style: none;
+  font-size: 62.5%;
+  background-color: #f6f6f6;
+  font-family: "JuraBold";
+}
+
+.font-face-black {
+  font-family: "JuraSemiBold";
+}
+.font-face-light {
+  font-family: "JuraSemiBold";
+}
